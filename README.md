@@ -1,4 +1,4 @@
-# AUTONOMOUS NAVIGATION OF MOBILE ROBOTUSING KINECT SENSOR
+# AUTONOMOUS NAVIGATION OF MOBILE ROBOT USING KINECT SENSOR
 
 ## Overview
 Design a mobile robot that can build a 2D map of an indoor environment (using SLAM system) and navigate from the robot's location to a point on the map
@@ -14,10 +14,10 @@ The mobile base is a Differential Drive model. The robot software based on ROS (
 - ROS Kinetic Kam
 - OpenNI 
 - ROS packages:
-	- depthimage_to_laserscan
+  - depthimage_to_laserscan
   - gmapping
   - map_server
-	- move_base
-	- amcl
-	- dwa_local_planner
+  - move_base
+  - amcl
+  - dwa_local_planner
 ## Result
