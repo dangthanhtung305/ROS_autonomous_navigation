@@ -49,7 +49,7 @@ Avoid obstacles
   <img width="700" height="600" src="https://github.com/dangthanhtung305/ROS_autonomous_navigation/blob/master/image/detect_obstacles.png">
 </p>
 
-## Youtube:
+## Youtube
   - Mapping:  [here](https://www.youtube.com/watch?v=xC-JHz4ku9k)
   - Navigation: [here](https://www.youtube.com/watch?v=r-miZsWEDVE)
   - Navigation with obstacles: [here](https://www.youtube.com/watch?v=iaPCsaRBXBQ)
