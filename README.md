@@ -29,7 +29,7 @@ System diagram:
 
 ## Dependencies
 - Ubuntu 16.04
-- ROS Kinetic Kam
+- ROS Indigo Igloo
 - OpenNI 
 - ROS packages:
   - depthimage_to_laserscan
