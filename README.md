@@ -14,7 +14,7 @@ The mobile base is a differential drive model. The robot software based on ROS (
 - Do path planner to navigate the robot
 - The robot uses PID controller and can calculate pose over time
 
-Process data and build map:
+Process data and build a map:
 <p align="center">
   <img width="700" height="200" src="https://github.com/dangthanhtung305/ROS_autonomous_navigation/blob/master/image/gmapping.png">
 </p>
