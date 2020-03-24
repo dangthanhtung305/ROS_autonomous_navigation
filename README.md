@@ -38,6 +38,8 @@ System diagram:
   - move_base
   - amcl
   - dwa_local_planner
+- ROS navigation stack
+
 ## Result
 Navigation based on the map build before
 <p align="center">
